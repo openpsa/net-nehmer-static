@@ -1,0 +1,95 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE pl
+
+---STRING article
+Artykuł
+---STRINGEND
+
+---STRING autoindex
+Automatycznie twórz artykuł indeksowy.
+---STRINGEND
+
+---STRING autoindex settings
+Ustawienia autoindeksu
+---STRINGEND
+
+---STRING autoindex-notes
+Artykuł indeksowy to artykuł wyświetlany po podaniu adresu URL kategorii. Składa się z listy artykułów i załączników w folderze.
+---STRINGEND
+
+---STRING callback_function
+Funkcja zwrotna uruchamiana po utworzeniu artykułu.
+---STRINGEND
+
+---STRING content
+Treść
+---STRINGEND
+
+---STRING directory index for %s
+Zawartość folderu %s
+---STRINGEND
+
+---STRING file lastmodified
+Ostatnia modyfikacja
+---STRINGEND
+
+---STRING filedescription
+Opis pliku
+---STRINGEND
+
+---STRING filename
+Nazwa pliku
+---STRINGEND
+
+---STRING filesize
+Rozmiar pliku
+---STRINGEND
+
+---STRING filetype
+Typ pliku
+---STRINGEND
+
+---STRING folder_in_title
+Pokaż nazwę folderu w tytule strony
+---STRINGEND
+
+---STRING hide_navigation
+Ukryj artykuły w nawigacji
+---STRINGEND
+
+---STRING indexinnav
+Pokaż indeks w nawigacji
+---STRINGEND
+
+---STRING net.nehmer.static
+Treść statyczna
+---STRINGEND
+
+---STRING no files in this directory
+Kategoria jest pusta
+---STRINGEND
+
+---STRING no index article
+Ten folder nie zawiera artykułu indeksowego. Utwórz artykuł o nazwie <strong>index</strong> lub skorzystaj z opcji autoindex.
+---STRINGEND
+
+---STRING schema settings
+Ustawienia schematów danych.
+---STRINGEND
+
+---STRING schemadb
+Schemat danych folderu.
+---STRINGEND
+
+---STRING show blobs in autoindex
+Pokazuj załączniki w indeksie
+---STRINGEND
+
+---STRING simple_name_handling
+Automatyczne tworzenie URLi.
+---STRINGEND
+
+---STRING sort_order
+Kolejność
+---STRINGEND

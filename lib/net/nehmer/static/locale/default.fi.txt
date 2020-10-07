@@ -1,0 +1,96 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE fi
+
+---STRING article
+Artikkeli
+---STRINGEND
+
+---STRING autoindex
+Luo automaattinen sisällysluettelo kansiolle?
+---STRINGEND
+
+---STRING autoindex-notes
+Sisällysluettelo korvaa index-artikkelin ja sisältää listan kaikista kansiossa olevista artikkeleista ja liitteistä.
+---STRINGEND
+
+---STRING callback_function
+Luonnin jälkeen kutsuttava callback-funktio jota käytetään
+---STRINGEND
+
+---STRING content
+Sisältö
+---STRINGEND
+
+---STRING directory index for %s
+Kansion %s sisällysluettelo
+---STRINGEND
+
+---STRING file lastmodified
+Viimeksi muokattu
+---STRINGEND
+
+---STRING filedescription
+Kuvaus
+---STRINGEND
+
+---STRING filename
+Tiedostonimi
+---STRINGEND
+
+---STRING filesize
+Koko
+---STRINGEND
+
+---STRING filetype
+Tyyppi
+---STRINGEND
+
+---STRING folder_in_title
+Näytä kansion nimi sivun otsikossa
+---STRINGEND
+
+---STRING hide_navigation
+Piilota artikkelit navigaatiosta
+---STRINGEND
+
+---STRING indexinnav
+Näytetäänkö index-artikkeli navigaatiossa?
+---STRINGEND
+
+---STRING net.nehmer.static
+Staattinen sisältö
+---STRINGEND
+
+---STRING no files in this directory
+Ei tiedostoja kansiossa
+---STRINGEND
+
+---STRING no index article
+Kansiosta puuttuu <strong>index</strong>-artikkeli. Luo artikkeli jonka tiedostonimenä on <strong>index</strong> tai laita automaattinen sisällysluettelo päälle.
+---STRINGEND
+
+---STRING schema settings
+Tietokantakuvauksen asetukset
+---STRINGEND
+
+---STRING schemadb
+Tässä kansiossa käytettävä tietokantakuvaus
+---STRINGEND
+
+---STRING show blobs in autoindex
+Näytä liitetiedostot automaattisella etusivulla
+---STRINGEND
+
+---STRING simple_name_handling
+Luodaanko artikkelin URL-nimi automaattisesti?
+---STRINGEND
+
+---STRING sort_order
+Järjestely
+---STRINGEND
+
+---STRING autoindex settings
+Automaattisen sisällysluettelon asetukset
+---STRINGEND
+

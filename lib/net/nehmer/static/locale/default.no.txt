@@ -1,0 +1,60 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE no
+
+---STRING autoindex
+Vis liste over artikler på forsiden?
+---STRINGEND
+
+---STRING autoindex-notes
+Dette valget skifter ut førstesiden med en liste av alle artikler som ligger under dette emner.
+---STRINGEND
+
+---STRING net.nehmer.static
+Statisk innhold
+---STRINGEND
+
+---STRING directory index for %s
+Emneindex for %s
+---STRINGEND
+
+---STRING file lastmodified
+Sist endret
+---STRINGEND
+
+---STRING filedescription
+Filbeskrivelse
+---STRINGEND
+
+---STRING filename
+Filnavn
+---STRINGEND
+
+---STRING filesize
+Filstørrelse
+---STRINGEND
+
+---STRING filetype
+Filtype
+---STRINGEND
+
+---STRING no files in this directory
+Det er ingen filer i denne katalogen
+---STRINGEND
+
+---STRING no index article
+Du skal nå lage en forside til denne katalogen. Dersom du er usikker, skriv inn en tittel og trykk lagre.
+---STRINGEND
+
+---STRING schema settings
+Innstillinger for dataskjema
+---STRINGEND
+
+---STRING schemadb
+Skjema som skal brukes i denne mappen
+---STRINGEND
+
+---STRING net.nehmer.static
+Vanlige sider
+---STRINGEND
+
